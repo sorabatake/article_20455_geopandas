@@ -3,8 +3,8 @@
 日本発の衛星データプラットフォーム Tellus のオウンドメディア「宙畑」の記事、https://sorabatake.jp/20454 で利用しているコードです。
 
 ## ファイル構成
-- VisionTransformer.ipynb
-  - 本記事で利用したコード(GPU環境前提で書かれています)
+- 前編：geopandas01.ipynb
+- 後編：geopandas02.ipynb
 
 また、次のボタンから Google Colab のノートブックを開けます。
 
