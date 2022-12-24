@@ -1,6 +1,6 @@
 # article_20455_geopandas
 
-日本発の衛星データプラットフォーム Tellus のオウンドメディア「宙畑」の記事、https://sorabatake.jp/20454 で利用しているコードです。
+日本発の衛星データプラットフォーム Tellus のオウンドメディア「宙畑」の記事、https://sorabatake.jp/20510/ で利用しているコードです。
 
 ## ファイル構成
 - 前編：geopandas01.ipynb
